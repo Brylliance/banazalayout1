@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+h1{ 
+    font-family: impact, sans-serif;
+    font-size: 80px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-left: 227px;
+    margin-top: 70px;
+    height: 40px;
+}
+.column1{ 
+    float: left;
+    width: 90%;
+    margin-left: 200px;
+    margin-right: 200px;
+    position: relative;
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 30px;
+}
