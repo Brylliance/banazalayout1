@@ -12,14 +12,14 @@ h1{
 }
 .column1{ 
     float: left;
-    width: 90%;
+    width: 60%;
     margin-left: 200px;
-    margin-right: 200px;
+    margin-right: 600px;
     position: relative;
 }
 img{
-    width: 200px;
-    height: 200px;
+    width: 125px;
+    height: 125px;
     float: left;
     margin: 30px;
 }
