@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: gray;
+    background-color: #0d8d00;
 }
 .wrapper{
     padding-left: 10%;
@@ -12,7 +12,8 @@ h1{
     padding-left: 10%;
     padding-right: 10%;
     font-size: 30pt;
-    margin-bottom: 1px
+    margin-bottom: 1px;
+    color: white;
 }
 img{
     width: 200px;
